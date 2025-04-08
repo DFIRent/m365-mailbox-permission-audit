@@ -2,7 +2,7 @@
 
 Quick PowerShell script to audit mailbox permissions in Microsoft 365. Helps you find out who has access to what, across both user and shared mailboxes.
 
-Blogpost Link: 
+Blogpost Link: https://www.donotclickthat.link/auditing-m365-mailbox-permissions/
 
 ### What it does
 
